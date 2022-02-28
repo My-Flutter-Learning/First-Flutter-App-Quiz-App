@@ -1,6 +1,13 @@
-# first_app
+# Quiz app
 
-A new Flutter project.
+This is a simple quiz app. The results given at the end are basd on a score calculated by the application with the following metrics:
+
+| Colour | Score |
+|--------|-------|
+|Black   | 10    |
+|Red     | 6     |
+|Green   | 3     |
+|White   | 1     |
 
 ## Getting Started
 
