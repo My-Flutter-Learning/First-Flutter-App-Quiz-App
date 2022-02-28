@@ -23,15 +23,9 @@ This is a simple quiz app. The results given at the end are based on a score cal
 | Cookies  | 9     |
 | Crisps   | 10    |
 
-## Getting Started
+The End Result is based on the total score as is given as follows:
+- 0-8 => You are awesone and innocent
+- 9-12 => Pretty likeable
+- 13-16 => You are ... strange?!
+- Above 16 => You are bad
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
