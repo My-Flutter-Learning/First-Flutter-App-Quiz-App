@@ -2,12 +2,12 @@
 
 This is a simple quiz app. The results given at the end are basd on a score calculated by the application with the following metrics:
 
-| Colour | Score |
-|--------|-------|
-|Black   | 10    |
-|Red     | 6     |
-|Green   | 3     |
-|White   | 1     |
+| Colour | Score |              | Animal | Score |
+|--------|-------|              |--------|-------|
+| Black  | 10    |              | Dog    | 1     |
+| Red    | 6     |              | Cat    | 3     |
+| Green  | 3     |              | Lion   | 5     |
+| White  | 1     |              | Snake  | 10    |
 
 ## Getting Started
 
